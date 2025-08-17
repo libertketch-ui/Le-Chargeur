@@ -1,0 +1,7 @@
+# Place ton image dans un dossier assets/
+mv ~/Downloads/banner.png ./assets/banner.png
+
+# Ajoute et commit
+git add assets/banner.png
+git commit -m "Ajout de la bannière"
+git push origin main
