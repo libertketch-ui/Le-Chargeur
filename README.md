@@ -38,7 +38,9 @@
 ## 📸 Aperçu de l'application
 
 Ajoutez vos captures d’écran dans le dossier `/assets` pour illustrer :
-
+<p align="center">
+  <img src="assets/banner.png" alt="Le-Chargeur Banner" width="100%" />
+</p>
 - Écran de recherche
 - Paiement Mobile Money
 - Billet avec QR code
@@ -65,7 +67,7 @@ Ajoutez vos captures d’écran dans le dossier `/assets` pour illustrer :
 ## 📬 Contact
 
 Développé par **Vaurice**  
-📧 vaurice@email.com  
+📧 libertketch@gmail.com 
 🌍 Basé à Bucarest, Roumanie
 
 ---
